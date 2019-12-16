@@ -1,7 +1,7 @@
 {
   "clickedObject": [
-    { "id": 1, "action":"close", "show": "58", "hide":"59" },
-    { "id": 1, "action":"open", "show": "59", "hide":"58" },
-    { "id": 2, "title": "open_20" }
+    { "id": 1, "title": "fwt", "action":"close", "show": "58", "hide":"59" },
+    { "id": 2, "title": "fwt", "action":"open", "show": "59", "hide":"58" },
+    { "id": 3, "title": "open_20" }
   ]
 }
